@@ -13,6 +13,7 @@ rodrigobeirao/AnotherApp:
 
   PreInstall:
     - echo "Begin PreInstall"
+    - mkdir Teste
 
   PostInstall:
     - echo "Begin PostInstall"
